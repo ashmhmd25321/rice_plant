@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RiceBuddy" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/lightgreen</item>
+        <item name="colorPrimaryVariant">@color/lightgreen</item>
+    </style>
+
+    <style name="Theme.RiceBuddy" parent="Base.Theme.RiceBuddy" />
+</resources>
